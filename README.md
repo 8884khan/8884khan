@@ -1,7 +1,9 @@
 - 👋 Hi, I’m Shahbaz Khan
 - 👀 I’m interested in web dev(back-end)...
 - 🌱 i know the basic concepts for HTML and CSS...
-- Currently working on python and Django
+- Currently learning on python
+- interested in getting knowledge of Djando frame work
+- I have a determination of learning MySql
 - 📫 How to reach me 8884khan@mail.com ...
 - I hope to learn and grow and get experiance in programming
 <!---
