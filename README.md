@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Shahbaz Khan
 - 👀 I’m interested in web development
 - 🌱 i know the basic concepts for HTML and CSS...
-- - Knowledge of JAVASCRIPT
-- Knowledge oj REACT-JS
+- Basic Knowledge of JAVASCRIPT
+- Interested REACT-JS
 - Currently learning on python
 - interested in getting knowledge of Djando frame work
 - I have a determination of learning MySql
