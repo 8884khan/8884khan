@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shahbaz Khan
-- 👀 I’m interested in web development
-- 🌱 i know the basic concepts for HTML and CSS...
+-  I’m interested in web development
+- I know the basic concepts for HTML and CSS...
 - Basic Knowledge of JAVASCRIPT
 - Interested REACT-JS
 - Currently learning on python
